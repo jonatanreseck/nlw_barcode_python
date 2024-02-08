@@ -13,3 +13,6 @@ repos:
             "--rcfile=.pylintrc", # Link to your config file
             "--load-plugins=pylint.extensions.docparams", # Load an extension
           ]
+
+
+         minuto 37:00
